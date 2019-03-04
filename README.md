@@ -24,3 +24,7 @@ We need some help of Chrome Developer Tools to search through the HTML of a web 
 
 # Note
 if required you may need to log into the website you are scraping.
+
+## See for reference:
+
+https://blog.bitsrc.io/how-to-perform-web-scraping-using-node-js-part-2-7a365aeedb43
